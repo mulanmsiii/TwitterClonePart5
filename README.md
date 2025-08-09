@@ -1,3 +1,6 @@
+这个folder，main是API login with replit 和neon， 然后分支 version--firebase-v1是用 firebase 做的
+这个folder独立上传到github了，为了交功课，老师要看两个版本。
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
